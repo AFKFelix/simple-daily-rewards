@@ -1,0 +1,12 @@
+name: SimpleDailyRewards
+main: de.afkfelix.simpledailyrewards.SimpleDailyRewards
+version: 1.0
+api-version: 1.21.1
+author: AFKFelix
+commands:
+  stats:
+    description: Deletes stats data
+    usage: /stats delete
+  dailyreward:
+    description: Claim your daily reward
+    usage: /dailyreward
